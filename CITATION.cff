@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Twomey"
+  given-names: "Colin"
+  orcid: "https://orcid.org/0000-0002-7368-2861"
+title: "Code and Data for Twomey et al. 2021 What we talk about when we talk about colors"
+version: 1.0.0
+date-release: "2021-09-09"
+url: "https://github.com/crtwomey/twomey2021"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Twomey"
+    given-names: "Colin R."
+    orcid: "https://orcid.org/0000-0002-7368-2861"
+  - family-names: "Roberts"
+    given-names: "Gareth"
+    orcid: "https://orcid.org/0000-0002-6662-6829"
+  - family-names: "Brainard"
+    given-names: "David H."
+    orcid: "https://orcid.org/0000-0001-9827-543X"
+  - family-names: "Plotkin"
+    given-names: "Joshua B."
+    orcid: "https://orcid.org/0000-0003-2349-6304"
+  doi: "10.1073/pnas.2109237118"
+  url: "https://doi.org/10.1073/pnas.2109237118"
+  journal: "PNAS"
+  title: "What we talk about when we talk about colors"
+  volume: 118
+  issue: 39
+  year: 2021
